@@ -1,4 +1,3 @@
 # SPACE-TRANSMITTER
-Nome: Pedro Henrique De Bortoli
 
-RA: 1129494
+Trabalho realizado no Primeiro Semestre da Faculdade
